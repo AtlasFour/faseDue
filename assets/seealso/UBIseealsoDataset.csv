@@ -1,0 +1,411 @@
+Id,Label,timeset,Level,Seed,clustering,category
+tax shift,tax shift,,2,false,0,1
+99ers,99ers,,0,false,0,4
+basic income,Basic income,,-1,true,0.016641,8
+global basic income,Global basic income,,0,true,0,8
+automation and the future of jobs,Automation and the Future of Jobs,,1,false,0,5
+cash transfers,Cash transfers,,-1,false,0.053571,1
+citizen's dividend,Citizen's dividend,,-1,false,0.084559,1
+"economic, social and cultural rights","Economic, social and cultural rights",,1,false,0.001976,3
+fairtax,FairTax,,1,false,0.009524,1
+geolibertarianism,Geolibertarianism,,0,false,0.012179,3
+givedirectly,GiveDirectly,,1,false,0.15,1
+guaranteed minimum income,Guaranteed minimum income,,-1,false,0.020161,1
+involuntary unemployment,Involuntary unemployment,,1,false,0.005682,1
+left-libertarianism,Left-libertarianism,,1,false,0.013228,3
+living wage,Living wage,,0,false,0.025362,1
+minimum wage,Minimum wage,,1,false,0.026144,1
+negative income tax,Negative income tax,,-1,false,0.098485,1
+economy of cuba,Economy of Cuba,,1,false,0.022222,7
+old age security,Old Age Security,,-1,false,0.166667,6
+quatinga velho,Quatinga Velho,,-1,false,0,7
+post-scarcity economy,Post-scarcity economy,,1,false,0.003024,1
+redistribution of income and wealth,Redistribution of income and wealth,,-1,false,0.009804,4
+refusal of work,Refusal of work,,-1,false,0.022222,4
+social dividend,Social dividend,,-1,false,0.055147,1
+social safety net,Social safety net,,-1,false,0.006536,4
+speenhamland system,Speenhamland system,,1,false,0,2
+the triple revolution,The Triple Revolution,,-1,false,0.033333,4
+unemployment benefits,Unemployment benefits,,0,false,0.036364,1
+universal credit,Universal Credit,,1,false,0.033333,1
+welfare capitalism,Welfare capitalism,,1,false,0,1
+working time,Working time,,-1,false,0.013158,4
+workâ€“life balance,Work life balance,,0,false,0.00641,4
+business day,Business day,,2,false,0,1
+"hours of work (commerce and offices) convention, 1930","Hours of Work (Commerce and Offices) Convention, 1930",,2,false,0,2
+"hours of work (industry) convention, 1919","Hours of Work (Industry) Convention, 1919",,2,false,0,2
+"hours of work and manning (sea) convention, 1936","Hours of Work and Manning (Sea) Convention, 1936",,2,false,0,2
+human capital,Human capital,,0,false,0,1
+karÅ�shi,KarÅ�shi,,2,false,1,2
+labour market flexibility,Labour market flexibility,,0,false,1,1
+saint monday,Saint Monday,,2,false,0,4
+short time,Short Time,,2,false,0,4
+soviet calendar,Soviet calendar,,2,false,0,2
+waiting for the weekend,Waiting for the Weekend,,2,false,0,4
+absenteeism,Absenteeism,,2,false,0,4
+dual-career commuter couples,Dual-career commuter couples,,2,false,0,1
+medical resident work hours,Medical resident work hours,,0,false,0,6
+mompreneur,Mompreneur,,2,false,0,1
+"money-rich, time-poor","Money-rich, time-poor",,0,false,0,4
+on-ramping,On-Ramping,,2,false,0,1
+personal life,Personal life,,0,false,0,4
+presenteeism,Presenteeism,,0,false,0,1
+shared earning/shared parenting marriage,Shared Earning/Shared Parenting Marriage,,2,false,0,3
+superwoman (sociology),Superwoman (sociology),,2,false,0,3
+telecommuting,Telecommuting,,2,false,0,5
+time bind,Time bind,,0,false,0,4
+total worker health,Total Worker Health,,2,false,0,6
+workaholic,Workaholic,,0,false,0,1
+workâ€“family balance in the united states,Work family balance in the United States,,2,false,0,2
+workâ€“life balance in germany,Work life balance in Germany,,2,false,0,2
+workâ€“life interface,Work life interface,,2,false,0,1
+burnout (psychology),Burnout (psychology),,2,false,0,6
+clinical psychology,Clinical psychology,,2,false,0,6
+health psychology,Health Psychology,,2,false,0,6
+industrial and organizational psychology,Industrial and Organizational Psychology,,2,false,0,6
+occupational health psychology,Occupational health psychology,,2,false,0,6
+psychoneuroimmunology,Psychoneuroimmunology,,2,false,0,6
+stress (biological),Stress (biological),,2,false,0,6
+workplace stress,Workplace stress,,2,false,0,6
+labour law,Labour law,,-1,false,0.333333,2
+welfare reform act 2012,Welfare Reform Act 2012,,2,false,0,2
+welfare reform and work act 2016,Welfare Reform and Work Act 2016,,2,false,0,2
+christian democracy,Christian democracy,,2,false,0,3
+company store,Company store,,2,false,0,1
+company town,Company town,,0,false,0,1
+criticisms of welfare,Criticisms of welfare,,0,false,0,4
+german model,German model,,2,false,0,2
+nordic model,Nordic model,,0,false,0,2
+rhine capitalism,Rhine capitalism,,2,false,0,1
+social capital,Social capital,,2,false,0,1
+social market economy,Social market economy,,0,false,0,1
+social welfare,Social welfare,,2,false,0,4
+capitalism,Capitalism,,2,false,0,1
+welfare state,Welfare state,,0,false,0,1
+workplace democracy,Workplace democracy,,2,false,0,3
+basic income pilots,Basic income pilots,,2,false,0,7
+basic income around the world,Basic income around the world,,2,false,0,7
+basic income in brazil,Basic income in Brazil,,2,false,0,7
+unemployment extension,Unemployment extension,,0,false,0.5,4
+social rights,Social rights,,2,false,0,4
+hire act,HIRE Act,,2,false,0,2
+reserve army of labour,Reserve army of labour,,0,false,0.166667,3
+labor power,Labor power,,2,false,0,1
+compensation of employees,Compensation of employees,,2,false,0,1
+lorenz curve,Lorenz curve,,2,false,0,1
+social insurance,Social insurance,,0,false,0,4
+cybernetics,Cybernetics,,2,false,0,5
+norbert wiener,Norbert Wiener,,2,false,0,5
+technological unemployment,Technological unemployment,,0,false,0,5
+uk labour law,UK labour law,,2,false,0,2
+earned income tax credit,Earned income tax credit,,0,false,0,2
+roundsman,Roundsman,,2,false,0,2
+labour rate,Labour Rate,,0,false,0,1
+poor law,Poor Law,,2,false,0,2
+timeline of children's rights in the united kingdom,Timeline of children's rights in the United Kingdom,,2,false,0,4
+nrega,NREGA,,2,false,0,7
+social network,Social network,,2,false,0,6
+social security,Social security,,-1,false,0.416667,4
+social welfare provision,Social welfare provision,,2,false,0,4
+welfare (financial aid),Welfare (financial aid),,2,false,0,1
+global resources dividend,Global resources dividend,,0,false,1,1
+lange model,Lange model,,2,false,0,2
+public enterprise,Public enterprise,,2,false,0,2
+profit (economics),Profit (economics),,2,false,0,1
+property income,Property income,,2,false,0,1
+social ownership,Social ownership,,2,false,0,3
+socialism,Socialism,,2,false,0,3
+sovereign wealth fund,Sovereign wealth fund,,2,false,1,2
+market socialism,Market socialism,,2,false,0,1
+decent work,Decent work,,2,false,0,4
+"from each according to his ability, to each according to his need","From each according to his ability, to each according to his need",,2,false,0,3
+"he who does not work, neither shall he eat","He who does not work, neither shall he eat",,2,false,0,3
+unfree labour,Unfree labour,,0,false,0,4
+work aversion,Work aversion,,2,false,0,4
+distribution of wealth,Distribution of wealth,,2,false,0,1
+economic policy,Economic policy,,2,false,0,2
+poverty reduction,Poverty reduction,,0,false,0,2
+robin hood,Robin Hood,,2,false,0,3
+robin hood tax,Robin Hood tax,,2,false,0,3
+social inequality,Social inequality,,2,false,0,4
+redistribution (cultural anthropology),Redistribution (cultural anthropology),,2,false,0,3
+wealth concentration,Wealth concentration,,2,false,0,1
+lima declaration,Lima Declaration,,2,false,0,2
+accumulation by dispossession,Accumulation by dispossession,,2,false,0,1
+primitive accumulation of capital,Primitive accumulation of capital,,2,false,0,1
+attention economy,Attention economy,,0,false,0,1
+cycle of poverty,Cycle of poverty,,0,false,0,4
+commons-based peer production,Commons-based peer production,,2,false,0,1
+communist society,Communist society,,2,false,0,3
+imagination age,Imagination age,,2,false,0,3
+information society,Information society,,2,false,0,5
+knowledge economy,Knowledge economy,,2,false,0,1
+open access economy,Open access economy,,2,false,0,1
+post-capitalism,Post-capitalism,,0,false,0,1
+scarcity,Scarcity,,2,false,0,1
+technological utopianism,Technological utopianism,,2,false,0,5
+the zeitgeist movement,The Zeitgeist Movement,,2,false,0,7
+james s. albus,James S. Albus,,2,false,0,5
+into the open economy,Into The Open Economy,,2,false,0,1
+a whole new mind,A Whole New Mind,,2,false,0,3
+abundance: the future is better than you think,Abundance: The Future Is Better Than You Think,,2,false,0,1
+post-scarcity anarchism,Post-Scarcity Anarchism,,2,false,0,3
+f-day: the second dawn of man,F-Day: The Second Dawn Of Man,,2,false,0,4
+martin ford (author),Martin Ford (author),,2,false,0,5
+canada pension plan / old age security review tribunals,Canada Pension Plan / Old Age Security Review Tribunals,,2,false,0,7
+cuban peso,Cuban peso,,0,false,0,7
+cuban convertible peso,Cuban convertible peso,,0,false,0,7
+central bank of cuba,Central Bank of Cuba,,2,false,0,7
+economy of the caribbean,Economy of the Caribbean,,2,false,0,7
+mercados libres campesinos,Mercados Libres Campesinos,,2,false,0,1
+central banks and currencies of the caribbean,Central banks and currencies of the Caribbean,,2,false,0,1
+effective marginal tax rate,Effective marginal tax rate,,2,false,0,1
+poverty in the united states,Poverty in the United States,,2,false,0,4
+tax choice,Tax choice,,2,false,0,1
+average worker's wage,Average worker's wage,,2,false,0,1
+economic inequality,Economic inequality,,2,false,0,4
+employee benefits,Employee benefits,,2,false,0,4
+family wage,Family wage,,0,false,0,1
+garcia v. san antonio metropolitan transit authority,Garcia v. San Antonio Metropolitan Transit Authority,,2,false,0,2
+labor law,Labor law,,2,false,0,2
+minimum wage fixing convention 1970,Minimum Wage Fixing Convention 1970,,2,false,0,2
+moonlight clan,Moonlight clan,,2,false,0,4
+negative and positive rights,Negative and positive rights,,2,false,0,3
+nickel and dimed,Nickel and Dimed,,2,false,0,4
+price controls,Price controls,,2,false,0,2
+scratch beginnings,Scratch Beginnings,,2,false,0,1
+wage slavery,Wage slavery,,-1,false,0.333333,4
+working poor,Working poor,,0,false,0.5,4
+distributism,Distributism,,0,false,0,3
+labor market,Labor market,,2,false,0,1
+maximum wage,Maximum wage,,2,false,0,1
+positive rights,Positive rights,,2,false,0,3
+precarious work,Precarious work,,2,false,0,4
+supply and demand,Supply and demand,,2,false,0,1
+trade boards act 1909,Trade Boards Act 1909,,2,false,0,2
+social liberalism,Social liberalism,,0,false,0,3
+classical liberalism,Classical liberalism,,2,false,0,3
+social democracy,Social democracy,,2,false,0,3
+eco-capitalism,Eco-capitalism,,0,false,0.5,3
+free-market environmentalism,Free-market environmentalism,,0,false,0.5,1
+grassroots democracy,Grassroots democracy,,2,false,0,3
+green anarchism,Green anarchism,,0,false,0,3
+green libertarianism,Green libertarianism,,0,false,0.5,3
+individualist anarchism,Individualist anarchism,,2,false,0,3
+individualist feminism,Individualist feminism,,0,false,0,3
+libertarian paternalism,Libertarian paternalism,,2,false,0,3
+libertarian socialism,Libertarian socialism,,0,false,0.5,3
+lockean proviso,Lockean proviso,,0,false,0.5,2
+radicalism (historical),Radicalism (historical),,0,false,0,3
+right-libertarianism,Right-libertarianism,,2,false,0,3
+social ecology,Social ecology,,2,false,0,3
+constitutional economics,Constitutional economics,,2,false,0,1
+guaranteed annual income,Guaranteed Annual Income,,2,false,0,1
+guaranteed income supplement,Guaranteed Income Supplement,,2,false,0,1
+guaranteed minimum pension,Guaranteed Minimum Pension,,2,false,0,1
+homelessness in the united states,Homelessness in the United States,,2,false,0,4
+revenu minimum d'insertion,Revenu minimum d'insertion,,0,false,0,2
+social credit,Social credit,,-1,false,0.75,1
+effective altruism,Effective Altruism,,2,false,0,4
+classical economics,Classical economics,,2,false,0,1
+commons,Commons,,2,false,0,1
+freiwirtschaft,Freiwirtschaft,,2,false,0,3
+georgism,Georgism,,-1,false,0.5,3
+jeffersonian democracy,Jeffersonian democracy,,2,false,0,2
+land value tax,Land value tax,,0,false,0.333333,1
+minarchism,Minarchism,,-1,false,0.833333,2
+natural and legal rights,Natural and legal rights,,2,false,0,3
+radical centrism,Radical centrism,,2,false,0,3
+single tax,Single tax,,0,false,0,1
+sustainable development,Sustainable development,,2,false,0,1
+tax reform,Tax reform,,0,false,0,1
+tragedy of the anticommons,Tragedy of the anticommons,,0,false,0,2
+americans for fair taxation,Americans For Fair Taxation,,0,false,0,2
+consumption tax,Consumption tax,,0,false,0,1
+debates within libertarianism,Debates within libertarianism,,2,false,0,3
+hallâ€“rabushka flat tax,Hall Rabushka flat tax,,0,false,0,2
+optimal tax,Optimal tax,,2,false,0,2
+constitutionalism,Constitutionalism,,2,false,0,3
+rule according to higher law,Rule according to higher law,,2,false,0,2
+welfare rights,Welfare rights,,2,false,0,4
+three generations of human rights,Three generations of human rights,,2,false,0,4
+human security,Human security,,2,false,0,6
+international labour standard,International labour standard,,2,false,0,1
+millennium development goals,Millennium Development Goals,,2,false,0,1
+social responsibility,Social responsibility,,2,false,0,4
+asset-based egalitarianism,Asset-based egalitarianism,,-1,false,1,3
+bleeding-heart libertarianism,Bleeding-heart libertarianism,,2,false,0,3
+demogrant,Demogrant,,2,false,0,1
+prosperity bonus,Prosperity Bonus,,2,false,0,1
+humanitarian aid,Humanitarian aid,,2,false,0,4
+conditional cash transfer,Conditional Cash Transfer,,0,false,0,1
+overseas development institute,Overseas Development Institute,,2,false,0,1
+automation,Automation,,2,false,0,6
+national living wage,National Living Wage,,-1,false,0.5,1
+socialist economics,Socialist economics,,-1,false,1,1
+wealth partaking scheme,Wealth Partaking Scheme,,-1,false,0,2
+basic income in canada,Basic income in Canada,,-1,false,0.666667,7
+"scheme $6,000","Scheme $6,000",,-1,false,0,2
+street people,Street people,,-1,false,0,4
+welfare's effect on poverty,Welfare's effect on poverty,,-1,false,0.5,1
+welfare trap,Welfare trap,,-1,false,0,4
+theories of poverty,Theories of poverty,,-1,false,0.45,1
+feantsa,FEANTSA,,-1,false,0,7
+real freedom,Real freedom,,-1,false,0,4
+socialist party (south korea),Socialist Party (South Korea),,-1,false,0,7
+social exclusion,Social exclusion,,-1,false,1,4
+basic needs,Basic needs,,-1,false,0.5,4
+basic income earth network,Basic Income Earth Network,,-1,false,0.833333,7
+soup kitchen,Soup kitchen,,-1,false,0,4
+food not bombs,Food Not Bombs,,-1,false,0,4
+employment,Employment,,-1,false,0,1
+welfare,Welfare,,-1,false,0.5,1
+hunger,Hunger,,-1,false,0,4
+gift economy,Gift economy,,-1,false,0.5,1
+poverty,Poverty,,-1,false,0.333333,4
+robert solow,Robert Solow,,-1,false,1,1
+unemployment,Unemployment,,-1,false,0,4
+james tobin,James Tobin,,-1,false,1,1
+income,Income,,-1,false,0,1
+egalitarianism,Egalitarianism,,-1,false,0,3
+right to an adequate standard of living,Right to an adequate standard of living,,-1,false,0,4
+cash,Cash,,0,false,0,1
+alaska permanent fund,Alaska Permanent Fund,,0,false,0,7
+unconditional cash transfer,Unconditional cash transfer,,0,false,0.5,4
+european social charter,European Social Charter,,0,false,0,2
+ministry of education,Ministry of Education,,0,false,0,2
+labor rights,Labor rights,,0,false,0,4
+right to education,Right to education,,0,false,0,4
+ministry of culture and tourism,Ministry of Culture and Tourism,,0,false,0,2
+education minister,Education minister,,0,false,0,2
+ministry of culture (spain),Ministry of Culture (Spain),,0,false,0,2
+right to housing,Right to housing,,0,false,0,4
+right to science and culture,Right to science and culture,,0,false,0,4
+right to clothing,Right to clothing,,0,false,0,4
+ministry of education and culture,Ministry of Education and Culture,,0,false,0,2
+flat tax,Flat tax,,0,false,0.5,1
+neal boortz,Neal Boortz,,0,false,0,4
+nesara,NESARA,,0,false,0,7
+income tax in the united states,Income tax in the United States,,0,false,0,2
+predicted effects of the fairtax,Predicted effects of the FairTax,,0,false,0,2
+distribution of the fairtax burden,Distribution of the FairTax burden,,0,false,0,2
+citizens for an alternative tax system,Citizens for an Alternative Tax System,,0,false,0,4
+voluntary taxation,Voluntary taxation,,0,false,0,1
+revenue neutrality of the fairtax,Revenue neutrality of the FairTax,,0,false,0,1
+free money day,Free Money Day,,0,false,0,4
+child labour,Child labour,,0,false,0,4
+income support,Income Support,,0,false,0,1
+revenu de solidaritÃ© active,Revenu de solidaritÃ© active,,0,false,0,4
+clowardâ€“piven strategy,Cloward Piven strategy,,0,false,0,2
+where do we go from here: chaos or community?,Where Do We Go from Here: Chaos or Community?,,0,false,0,3
+economic democracy,Economic democracy,,0,false,0.5,1
+child labour in bangladesh,Child labour in Bangladesh,,0,false,0,4
+wage theft,Wage theft,,0,false,0,4
+prime pour l'emploi,Prime pour l'emploi,,0,false,0,4
+physiocracy,Physiocracy,,0,false,0,3
+henry george,Henry George,,0,false,0.5,1
+ecotax,Ecotax,,0,false,0,1
+land reform,Land reform,,0,false,0,2
+david nolan (libertarian),David Nolan (libertarian),,0,false,0,3
+herbert spencer,Herbert Spencer,,0,false,0,3
+rent-seeking,Rent-seeking,,0,false,0,1
+gerrard winstanley,Gerrard Winstanley,,0,false,0.5,3
+pigovian tax,Pigovian tax,,0,false,0,2
+free-market anarchism,Free-market anarchism,,0,false,0,3
+usufruct,Usufruct,,0,false,0,2
+common land,Common land,,0,false,0,2
+night-watchman state,Night-watchman state,,0,false,0,3
+catholic worker movement,Catholic Worker Movement,,0,false,0,3
+mutualism (economic theory),Mutualism (economic theory),,0,false,0.5,1
+common ownership,Common ownership,,0,false,0,1
+blacklisting,Blacklisting,,0,false,0,2
+discouraged worker,Discouraged worker,,0,false,0,4
+spatial mismatch,Spatial mismatch,,0,false,0,3
+right to work,Right to work,,0,false,0,4
+poverty trap,Poverty trap,,0,false,0,4
+jobless recovery,Jobless recovery,,0,false,0,4
+underclass,Underclass,,0,false,0,4
+structural unemployment,Structural unemployment,,0,false,0,1
+workfare,Workfare,,0,false,0,4
+second-class citizen,Second-class citizen,,0,false,0,4
+employment discrimination,Employment discrimination,,0,false,0,4
+closure (sociology),Closure (sociology),,0,false,0,3
+overqualification,Overqualification,,0,false,0,1
+economic mobility,Economic mobility,,0,false,0,1
+waithood,Waithood,,0,false,0,4
+job guarantee,Job guarantee,,0,false,0,1
+effective unemployment rate,Effective unemployment rate,,0,false,0,4
+great depression,Great Depression,,0,false,0,4
+hiring incentives to restore employment act,Hiring Incentives to Restore Employment Act,,0,false,0,2
+employment discrimination against persons with criminal records in the united states,Employment discrimination against persons with criminal records in the United States,,0,false,0,4
+precariat,Precariat,,0,false,0,4
+welfare dependency,Welfare dependency,,0,false,0,4
+disequilibrium macroeconomics,Disequilibrium macroeconomics,,0,false,0,1
+shapiroâ€“stiglitz theory,Shapiro Stiglitz theory,,0,false,0,1
+free state project,Free State Project,,0,false,0,3
+agorism,Agorism,,0,false,0,3
+franz oppenheimer,Franz Oppenheimer,,0,false,0,5
+libertarian perspectives on political alliances,Libertarian perspectives on political alliances,,0,false,0,3
+victor yarros,Victor Yarros,,0,false,0,3
+libertarian transhumanism,Libertarian transhumanism,,0,false,0,3
+poverty threshold,Poverty threshold,,0,false,0.5,4
+corporation,Corporation,,0,false,0,2
+workers' compensation,Workers' compensation,,0,false,0,1
+education in taiwan,Education in Taiwan,,0,false,0,3
+catholic social teaching,Catholic social teaching,,0,false,0,3
+mcnamaraâ€“o'hara service contract act,McNamara O'Hara Service Contract Act,,0,false,0,2
+minimum wage law,Minimum wage law,,0,false,0,2
+minimum wage in the united states,Minimum wage in the United States,,0,false,0,1
+prevailing wage,Prevailing wage,,0,false,0,1
+sociolismo,Sociolismo,,0,false,0,4
+recivitas,ReCivitas,,0,false,0,3
+special period,Special Period,,0,false,0,1
+pensions in canada,Pensions in Canada,,0,false,0,7
+progressive tax,Progressive tax,,0,false,0,1
+wealth tax,Wealth tax,,0,false,0,1
+redistributive justice,Redistributive justice,,0,false,0,4
+oxfam,Oxfam,,0,false,0,7
+technology,Technology,,0,false,0,5
+cornucopian,Cornucopian,,0,false,0,3
+louis o. kelso,Louis O. Kelso,,0,false,0,1
+mongongo,Mongongo,,0,false,0,3
+nanosocialism,Nanosocialism,,0,false,0,3
+michel bauwens,Michel Bauwens,,0,false,0,5
+"from each according to his ability, to each according to his needs","From each according to his ability, to each according to his needs",,0,false,0,3
+non-property system,Non-property system,,0,false,0,3
+communism,Communism,,0,false,0,3
+slacker,Slacker,,0,false,0,4
+profit sharing,Profit sharing,,0,false,0,1
+child benefits in the united kingdom,Child benefits in the United Kingdom,,0,false,0,4
+great society,Great Society,,0,false,0,2
+supplemental security income,Supplemental Security Income,,0,false,0,2
+war on poverty,War on Poverty,,0,false,0,4
+supplemental nutrition assistance program,Supplemental Nutrition Assistance Program,,0,false,0,2
+social security in australia,Social security in Australia,,0,false,0,4
+social programs in canada,Social programs in Canada,,0,false,0,7
+social welfare in china,Social welfare in China,,0,false,0,4
+social pension,Social pension,,0,false,0,4
+social protection floor,Social protection floor,,0,false,0,2
+intra-household bargaining,Intra-household bargaining,,0,false,0,1
+digital revolution,Digital Revolution,,0,false,0,5
+mixed economy,Mixed economy,,0,false,0,1
+democratic capitalism,Democratic capitalism,,0,false,0,3
+state socialism (germany),State Socialism (Germany),,0,false,0,3
+social welfare model,Social welfare model,,0,false,0,2
+social corporatism,Social corporatism,,0,false,0,1
+centre-left politics,Centre-left politics,,0,false,0,2
+hartz concept,Hartz concept,,0,false,0,2
+leave of absence,Leave of absence,,0,false,0,2
+glass ceiling,Glass ceiling,,0,false,0,4
+vacation,Vacation,,0,false,0,4
+workweek and weekend,Workweek and weekend,,0,false,1,6
+eight-hour day,Eight-hour day,,0,false,1,4
+workplace wellness,Workplace wellness,,0,false,0,4
+long service leave,Long service leave,,0,false,0,2
+the silent men,The Silent Men,,0,false,0,4
+quality of working life,Quality of working life,,0,false,0,6
+wealth,Wealth,,0,false,0,1
+lump of labour fallacy,Lump of labour fallacy,,0,false,0,1
+comparison of time-tracking software,Comparison of time-tracking software,,0,false,0,5
+abstract labour and concrete labour,Abstract labour and concrete labour,,0,false,0,3
+four-day week,Four-day week,,0,false,0,4
