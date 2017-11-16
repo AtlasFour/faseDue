@@ -341,7 +341,11 @@ header .header-title {
 }
 /* Viz styles */
 .viz-example {
-    width: 100%;
+  width: 100%;
+}
+.viz-example-wayback {
+  width: 80%;
+  margin-left: 20%;
 }
 .sigma-network {
     height: 650px;
