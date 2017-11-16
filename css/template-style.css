@@ -43,7 +43,7 @@ button:focus {
 .cover-img {
     min-height:  540px;
     margin-bottom: 50px;
-    background: url("faseDue/assets/coverUBI.jpg") no-repeat top center fixed;
+    background: url("/faseDue/assets/coverUBI.jpg") no-repeat top center fixed;
     background-size: cover;
 }
 
