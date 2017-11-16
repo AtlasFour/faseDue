@@ -1388,5 +1388,6 @@ sigma.classes.EventDispatcher = function () {
         b = Math.max(0, Math.min(b, 255));
         return "0123456789ABCDEF".charAt((b - b % 16) / 16) + "0123456789ABCDEF".charAt(b % 16)
     };
-    sigma.publicPrototype = s.prototype
+    sigma.publicPrototype = s.prototype   
+    
 })();
