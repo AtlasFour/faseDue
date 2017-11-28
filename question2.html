@@ -66,7 +66,7 @@
                         </div>
                     </div>
                     <h5 class="header-subtitle text-uppercase">research question</h5>
-                    <h1 class="header-title serif-font">How the definition of the topic is changing?</h1>
+                    <h1 class="header-title serif-font">How is the topic changed in the last years?</h1>
                 </div>
             </div>
         </div>
@@ -130,13 +130,17 @@
                     <h3 class="sans-font"><span>Description</span></h3>
                     <p>
                       The basic income wikipedia page first appeared in 2004, on august 24.
-                      Since then, the page grew exponentially, it counted 683 words and 4,129 characters back then, and now it’s at 8,113 words and 52,304 characters.
-                      It changed a lot during the years, and had its peak in 2015.The first surge was in 2009, like a reaction to the crisis.
+                      Since then, the page grew exponentially, it counted 683 words and 4,129 characters back then, and now it’s at
+                      8,113 words and 52,304 characters.
+                      It changed a lot douring the years, and had its peak in 2015. The first surge was in 2009, like a reaction to the
+                      crisis.
+                      <br>
                       This visualization shows the connection that the Basic Income Wikipedia page built during years.
-                    </p>
-                    <p>
-                      Those are just links pointing to other wikipedia pages, showing how the network grew over 13 years. During the years from 2004 to 2012 there were just yearly page saves, so we could only get one dataset each year. From 2013 we could scrape every 3 months, getting an higher definition. In 2006 and 2007 we couldn’t get data since the page was not saved nor in the wayback machine, nor in the wikipedia change history.
-                      The majority of links pointed to other languages Basic Income wikipedia pages, but in this visualization they were left out.
+                      Those are just links pointing to other wikipedia pages, showing how the network grew over 13 years.
+                      During the years from 2004 to 2012 there were just yearly page saves, so we could only get one dataset each year.
+                      From 2013 we could scrape every 3 months, getting an higher definition.
+                      The majority of links pointed to other languages Basic Income wikipedia pages, but in this visualization they were
+                      left out.
                     </p>
                 </div>
 
@@ -145,10 +149,14 @@
                     <h3 class="sans-font"><span>Protocol</span></h3>
                     <img class="protocol-diagram" src="assets/protocol-02.png"/>
                     <p>
-                      Wikipedia offered us just 4 years of changes, even if the page was born in 2004. From the revision history we got the saved page from 2013 to 2017, and we decided to scrape every 4 months in 3 set dates. We got the revision that was close to the 1st of april, 1st of august and 1st of december of each year, and, scraping, we extracted all outlinks. From that, we refined our dataset leaving only wikipedia-pointing links and we saved it in a .csv file.
-                    </p>
-                    <p>
-                      For the years before 2013, we used “wayback network per year”, a digitalmethods tool that can scrape the wayback machine for inside and outlinks. From that, we could refine a dataset similar to the one we created using wikipedia revision history.
+                      Wikipedia offered us just 4 years of changes, even if the page was born in 2004. From the revision history we got
+                      the saved page from 2013 to 2017, and we decided to scrape every 4 months in 3 set dates. We got the revision that
+                      was close to the 1st of april, 1st of august and 1st of december of each year, and, scraping, we extracted all
+                      outlinks. From that, we refined our dataset leaving only wikipedia-pointing links and we saved it in a .csv file.
+                      <br>
+                      For the years before 2013, we used “wayback network per year”, a digitalmethods tool that can scrape the wayback
+                      machine for inside and outlinks. From that, we could refine a dataset similar to the one we created using
+                      wikipedia revision history.
                       That way, having the same “scale”, we could compare every year.
                     </p>
                 </div>
@@ -161,13 +169,15 @@
                         <h4 class="data-link sans-font"><a href="/assets/datasets/waybackperYear.csv"><i class="fa fa-arrow-circle-o-down"></i> Download data (162kB)</a></h4>
                         <p>
                           Our data comes entirely from wikipedia, but we got it from different sources.
-                          Wikipedia allow us to see all the changes the page has been through from the beginning, but the "Basic Income" wiki page was redirected from the "Guarantee Minimum Income" in 2013, so it was not possible to get data before that time using just wikipedia.
-                          For the older data, we used a scraper for the "internet Archive Wayback Machine", but we could only get data from year to year.
-                        </p>
-                        <p>
-                          For Wikipedia Change History we used a simple google plugin "Scraper" by DVHTN, that allowed us to get all link from said webpages and paste it directly into an OpenRefine project.
+                          Wikipedia allow us to see all the changes the page has been through from the beginning, but the "Basic Income"
+                          wiki page was redirected from the "Guarantee Minimum Income" in 2013, so it was not possible to get data before
+                          that time using just wikipedia. For the older data, we used a scraper for the "internet Archive Wayback Machine",
+                          but we could only get data from year to year.
+                          <br>
+                          For Wikipedia Change History we used a simple google plugin "Scraper" by dvhtn, that allowed us to get all link
+                          from said webpages and paste it directly into an OpenRefine project.
                           The Wayback gave us directly a node/edges gephi file, that we had to refine to build our own dataset.
-                        </p>
+                          The final dataset consisted of 3989 lines.                        </p>
                 </div>
             </div>
         </div>
