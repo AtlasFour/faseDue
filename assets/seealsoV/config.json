@@ -5,21 +5,21 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "ByAtlasFour"
+    "text": "glog"
   },
   "text": {
     "more": "",
-    "intro": "seealsology",
-    "title": ""
+    "intro": "",
+    "title": "ubi interact"
   },
   "legend": {
-    "edgeLabel": "Links",
-    "colorLabel": "Link",
-    "nodeLabel": "Website"
+    "edgeLabel": "links",
+    "colorLabel": "category of arguments",
+    "nodeLabel": "Links of pages"
   },
   "features": {
     "search": false,
-    "groupSelectorAttribute": "color",
+    "groupSelectorAttribute": false,
     "hoverBehavior": "dim"
   },
   "informationPanel": {
@@ -28,22 +28,22 @@
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "straight",
-      "defaultHoverLabelBGColor": "#fff",
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
-      "defaultLabelColor": "#fff",
-      "labelThreshold": 7,
-      "defaultLabelHoverColor": "#000",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 8,
+      "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 20
+      "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 1,
-      "minEdgeSize": 0.8,
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize": 6
+      "maxNodeSize": 7
     },
     "mouseProperties": {
       "maxRatio": 20,
